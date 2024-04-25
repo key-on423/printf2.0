@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用递归的方法将十进制数打印一个二进制数", "使用递归的方法将十进制数打印一个二进制数\使用递归的方法将十进制数打印一个二进制数.vcxproj", "{742E6A61-FD96-499C-BEF7-F88E313F0405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742E6A61-FD96-499C-BEF7-F88E313F0405}.Debug|x64.ActiveCfg = Debug|x64
+		{742E6A61-FD96-499C-BEF7-F88E313F0405}.Debug|x64.Build.0 = Debug|x64
+		{742E6A61-FD96-499C-BEF7-F88E313F0405}.Debug|x86.ActiveCfg = Debug|Win32
+		{742E6A61-FD96-499C-BEF7-F88E313F0405}.Debug|x86.Build.0 = Debug|Win32
+		{742E6A61-FD96-499C-BEF7-F88E313F0405}.Release|x64.ActiveCfg = Release|x64
+		{742E6A61-FD96-499C-BEF7-F88E313F0405}.Release|x64.Build.0 = Release|x64
+		{742E6A61-FD96-499C-BEF7-F88E313F0405}.Release|x86.ActiveCfg = Release|Win32
+		{742E6A61-FD96-499C-BEF7-F88E313F0405}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31E8FC8-F39B-4FEA-A1B2-A079FB27D197}
+	EndGlobalSection
+EndGlobal
